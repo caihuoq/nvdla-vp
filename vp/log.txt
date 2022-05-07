@@ -1,0 +1,76 @@
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for NVDLA CMOD
+-- NVDLA HW VERSION = nvdla_os_initial
+-- NVDLA CMOD include directory = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/include
+-- NVDLA CMOD library directory = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/lib
+-- NVDLA CMOD library = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/lib/libnvdla_cmod.so
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for GreenLib
+-- GreenLib include directory = /workspace/vp/libs/greenlib/greencontrol/include
+-- GreenLib library directory = /workspace/vp/libs/greenlib/greenreg/lib
+-- Searching for TLM2C
+-- TLM2C include directory = /workspace/vp/libs/tlm2c/include
+-- TLM2C library directory = /workspace/vp/libs/tlm2c.build
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for GreenLib
+-- GreenLib include directory = /workspace/vp/libs/greenlib/greencontrol/include
+-- GreenLib library directory = /workspace/vp/libs/greenlib/greenreg/lib
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for GreenLib
+-- GreenLib include directory = /workspace/vp/libs/greenlib/greencontrol/include
+-- GreenLib library directory = /workspace/vp/libs/greenlib/greenreg/lib
+-- Searching for NVDLA CMOD
+-- NVDLA HW VERSION = nvdla_os_initial
+-- NVDLA CMOD include directory = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/include
+-- NVDLA CMOD library directory = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/lib
+-- NVDLA CMOD library = /usr/local/nvdla/hw/outdir/nv_full/cmod/release/lib/libnvdla_cmod.so
+-- Searching for SystemC
+-- SystemC version = 2.3.0
+-- SystemC library = /usr/local/systemc-2.3.0/lib-linux64/libsystemc.so
+-- Searching for TLM
+running ls /usr/local/systemc-2.3.0/include/tlm.h 2>&1
+/usr/local/systemc-2.3.0/include/tlm.h
+-- TLM library = /usr/local/systemc-2.3.0/include/tlm.h
+-- Searching for GreenLib
+-- GreenLib include directory = /workspace/vp/libs/greenlib/greencontrol/include
+-- GreenLib library directory = /workspace/vp/libs/greenlib/greenreg/lib
+-- Searching for SimpleCPU model.
+-- SimpleCPU include directory = /workspace/vp/models/cpu/include
+-- SimpleCPU library directory = /workspace/vp/models/cpu.build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /workspace/vp

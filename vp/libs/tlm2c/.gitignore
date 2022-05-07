@@ -1,0 +1,16 @@
+# Editor backup files.
+*~
+# Object files.
+*.o
+libtlm2c.a
+tests/test_socket
+# Patches.
+*.patch
+# CMake.
+CMakeCache.txt
+Makefile
+CMakeFiles
+Testing
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
